@@ -1,7 +1,7 @@
 # AWS Honeypot Threat Analysis
-![BI Dashboard Preview 1](./Dashboard/dashboard_preview_1.png)
-![BI Dashboard Preview 2](./Dashboard/dashboard_preview_2.png)
-![BI Dashboard Preview 3](./Dashboard/dashboard_preview_3.png)
+![BI Dashboard Preview 1](./dashboard/dashboard_preview_1.png)
+![BI Dashboard Preview 2](./dashboard/dashboard_preview_2.png)
+![BI Dashboard Preview 3](./dashboard/dashboard_preview_3.png)
 
 **Lead Architect:** Gading Mahendra Sebayang
 **Target:** 448K+ AWS Honeypot Log Entry
